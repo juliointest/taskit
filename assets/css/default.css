@@ -1,0 +1,12 @@
+.banner {
+    height: 375px;
+    background: url(./../img/julioteachingtesting.jpeg) center center no-repeat;
+}
+
+.somepadding {
+  padding-top: 30px;
+}
+
+.button {
+  cursor: pointer;
+}
